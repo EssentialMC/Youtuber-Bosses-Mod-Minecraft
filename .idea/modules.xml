@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Youtuber-Bosses-Mod-Minecraft.iml" filepath="$PROJECT_DIR$/Youtuber-Bosses-Mod-Minecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_api.iml" group="Youtuber-Bosses-Mod-Minecraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_main.iml" group="Youtuber-Bosses-Mod-Minecraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Youtuber-Bosses-Mod-Minecraft_test.iml" group="Youtuber-Bosses-Mod-Minecraft" />
+    </modules>
+  </component>
+</project>
